@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.14.0",
     "materialize-css": "^0.97.6",
+    "page": "^1.7.1",
     "pug": "^0.1.0"
   },
   "devDependencies": {
